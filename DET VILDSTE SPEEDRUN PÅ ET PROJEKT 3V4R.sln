@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DET VILDSTE SPEEDRUN PÅ ET PROJEKT 3V4R", "DET VILDSTE SPEEDRUN PÅ ET PROJEKT 3V4R\DET VILDSTE SPEEDRUN PÅ ET PROJEKT 3V4R.csproj", "{6DECF6CB-63DF-42CB-AC29-5F9114479650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DECF6CB-63DF-42CB-AC29-5F9114479650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DECF6CB-63DF-42CB-AC29-5F9114479650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DECF6CB-63DF-42CB-AC29-5F9114479650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DECF6CB-63DF-42CB-AC29-5F9114479650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690D2E7D-D54F-4B11-8D52-3CDD22EF3BE7}
+	EndGlobalSection
+EndGlobal
